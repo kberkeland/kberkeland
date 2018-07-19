@@ -1,0 +1,51 @@
+body {
+  height: 100%;
+  margin: 75px 400px;
+  color: black;
+  background-color: grey;
+}
+
+h2 {
+  font-size: 32px;
+  font-family: Georga;
+  font-weight: bold;
+  text-align: center;
+}
+
+.test-bold {
+  font-weight: bold;
+}
+
+.test-2 {
+  text-align: center;
+  margin: 0;
+}
+
+.objective {
+  padding: 25px;
+  margin: 0;
+}
+
+.experience {
+  padding: 25px;
+  margin: 0;
+}
+
+.technical {
+  padding: 25px;
+  margin: 0;
+}
+
+.education {
+  padding: 25px;
+  margin: 0;
+}
+
+.address {
+  text-align: center;
+}
+
+.newbody {
+  border: 2px solid powderblue;
+  background-color: white;
+}
