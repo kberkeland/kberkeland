@@ -2,7 +2,7 @@ body {
   height: 100%;
   margin: 75px 400px;
   color: black;
-  background-color: mintcream;
+  background-color: lightsteelblue;
 }
 
 h2 {
@@ -46,6 +46,6 @@ h2 {
 }
 
 .newbody {
-  border: 2px solid powderblue;
-  background-color: white;
+  border: 2px solid black;
+  background-color: mintcream;
 }
